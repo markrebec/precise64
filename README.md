@@ -7,4 +7,5 @@ A [Vagrant](http://vagrantup.com) box with a clean Ubuntu 12.04 x64 installation
 * `git`
 * `vim`
 * `curl`
+* `nodejs`
 * `rvm` and `ruby 2.1.1`

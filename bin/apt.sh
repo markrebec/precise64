@@ -1,4 +1,4 @@
 #!/bin/bash
 
 apt-get update
-apt-get install -y curl vim git
+apt-get install -y curl vim git nodejs
